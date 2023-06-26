@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Elysium](https://github.com/NemethAndris/Elysium.git)
 
-- 🌱 I’m currently learning and want master **Spring Boot and React Native**
+- 🌱 I’m currently learning and want to master **Spring Boot and React Native**
 
 - 💬 Ask me about **Java**
 
