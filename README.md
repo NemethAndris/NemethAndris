@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.dribbble.com/users/2084726/screenshots/11897843/media/f8a268a9e9a4cc3ab7b0c104a0301210.gif)](https://nemethandris.io)
 <h1 align="center">Hi 👋, I'm Németh András Fülöp</h1>
-<h3 align="center">A passionate full stack developer from Hungary</h3>
+<h3 align="center">A passionate full stack developer from Hungary, who currently looking for a job !</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
